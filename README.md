@@ -1,9 +1,14 @@
 ## Hi I'm Himanshi Gupta MERN FullStack Developer.
 
+"A full-stack web application built with React.js, Node.js, Express, and MongoDB. Features include user authentication, CRUD operations, and responsive design using HTML, CSS, and JavaScript."
+
+
 <!--
 **himanshigupta20/himanshigupta20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+"A full-stack web application built with React.js, Node.js, Express, and MongoDB. Features include user authentication, CRUD operations, and responsive design using HTML, CSS, and JavaScript."
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
