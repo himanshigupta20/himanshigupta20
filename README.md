@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I'm Himanshi Gupta MERN FullStack Developer.
 
 <!--
 **himanshigupta20/himanshigupta20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
